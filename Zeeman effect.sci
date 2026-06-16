@@ -2,7 +2,7 @@ clc
 clear
 s=1/2
 l=1
-bz=0:0.01:1
+bz=0:0.05:5
 n_ml=(2*l+1)
 n_ms=(2*s+1)
 num_states=n_ml*n_ms//------------------possible states
